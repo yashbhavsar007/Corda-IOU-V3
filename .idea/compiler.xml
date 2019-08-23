@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="clients.com.template.clients.main" target="1.8" />
+      <module name="clients.com.template.clients.test" target="1.8" />
+      <module name="com.template.clients.main" target="1.8" />
+      <module name="com.template.clients.test" target="1.8" />
+      <module name="com.template.contracts.main" target="1.8" />
+      <module name="com.template.contracts.test" target="1.8" />
+      <module name="com.template.cordapp-template-kotlin.main" target="1.8" />
+      <module name="com.template.cordapp-template-kotlin.test" target="1.8" />
+      <module name="com.template.IOU_Updated.main" target="1.8" />
+      <module name="com.template.IOU_Updated.test" target="1.8" />
+      <module name="com.template.workflows.integrationTest" target="1.8" />
+      <module name="com.template.workflows.main" target="1.8" />
+      <module name="com.template.workflows.test" target="1.8" />
+      <module name="contracts.com.template.contracts.main" target="1.8" />
+      <module name="contracts.com.template.contracts.test" target="1.8" />
+      <module name="workflows.com.template.workflows.integrationTest" target="1.8" />
+      <module name="workflows.com.template.workflows.main" target="1.8" />
+      <module name="workflows.com.template.workflows.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
