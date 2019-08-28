@@ -32,9 +32,7 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../cordapp-template-kotlin/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../cordapp-template-kotlin/config/dev">
-      <sourceFolder url="file://$MODULE_DIR$/../../cordapp-template-kotlin/config/dev" type="java-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../cordapp-template-kotlin/config/dev" />
     <content url="file://$MODULE_DIR$/../../cordapp-template-kotlin/src/main" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

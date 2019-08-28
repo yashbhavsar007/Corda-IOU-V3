@@ -38,9 +38,7 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/contracts/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/contracts/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/contracts/src/test/kotlin" isTestSource="true" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/contracts/src/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="com.template.contracts.main" />

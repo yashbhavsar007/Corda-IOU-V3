@@ -32,12 +32,8 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/workflows/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/config/dev">
-      <sourceFolder url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/config/dev" type="java-resource" />
-    </content>
-    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/workflows/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/workflows/src/main/kotlin" isTestSource="false" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/config/dev" />
+    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/workflows/src/main" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="com.template.contracts.main" />

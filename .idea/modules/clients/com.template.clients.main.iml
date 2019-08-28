@@ -32,13 +32,8 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/clients/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/clients/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/clients/src/main/kotlin" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/clients/src/main/resources" type="java-resource" />
-    </content>
-    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/config/dev">
-      <sourceFolder url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/config/dev" type="java-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/clients/src/main" />
+    <content url="file://$MODULE_DIR$/../../../cordapp-template-kotlin/config/dev" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: net.corda:corda-rpc:4.0" level="project" />
