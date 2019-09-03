@@ -12,9 +12,7 @@ import java.util.*
 @BelongsToContract(IOUContract::class)
 data class IOUState(val amount : Amount<Currency>,
                     val lender : Party,
-                    val borrower : Party,
-                    val paid : Amount<Currency> = Amount(0,amount.token),
-                    override val linearId : UniqueIdentifier = UniqueIdentifier()) : LinearState {
+                    val borrower : Party) : ContractState {
 
-        override  val participants: List<Party> get() = listOf(lender,borrower)
+        override val participants get() = listOf(lender , borrower)
 }

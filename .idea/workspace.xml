@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4adb36f-8f30-45c4-82a3-1dc39776e94c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/clients/com.template.clients.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/clients/com.template.clients.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.template.cordapp-template-kotlin.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.template.cordapp-template-kotlin.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/contracts/com.template.contracts.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/contracts/com.template.contracts.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/contracts/com.template.contracts.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/contracts/com.template.contracts.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/workflows/com.template.workflows.integrationTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workflows/com.template.workflows.integrationTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/workflows/com.template.workflows.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workflows/com.template.workflows.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/workflows/com.template.workflows.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workflows/com.template.workflows.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/clients/clients.com.template.clients.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/clients/clients.com.template.clients.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/clients/clients.com.template.clients.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/clients/clients.com.template.clients.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.template.IOU_Updated.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.template.IOU_Updated.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.template.IOU_Updated.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.template.IOU_Updated.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/contracts/contracts.com.template.contracts.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/contracts/contracts.com.template.contracts.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/workflows/workflows.com.template.workflows.integrationTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workflows/workflows.com.template.workflows.integrationTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/workflows/workflows.com.template.workflows.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workflows/workflows.com.template.workflows.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/workflows/workflows.com.template.workflows.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/workflows/workflows.com.template.workflows.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/src/main/kotlin/com/template/states/IOUState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/src/main/kotlin/com/template/states/IOUState.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/src/main/kotlin/com/template/flows/Flows.kt" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/src/main/kotlin/com/template/flows/Flows.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cordapp-template-kotlin/.gradle/" />
@@ -54,17 +60,20 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view />
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#32#154#0" expanded="true" />
               </folding>
@@ -72,11 +81,41 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/workflows/src/main/kotlin/com/template/flows/Flows.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#28#481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Currency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4636">
+              <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="124" column="38" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contracts/src/main/kotlin/com/template/states/IOUState.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="204">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
               <folding>
                 <element signature="e#29#205#0" expanded="true" />
               </folding>
@@ -84,19 +123,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workflows/src/main/kotlin/com/template/flows/Flows.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="e#28#376#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>application</find>
+      <find>IOUState</find>
+      <find>IOUStateInt</find>
+      <find>5006</find>
+      <find>IOUCont</find>
+      <find>borrower</find>
+      <find>IOUFlowResponder</find>
+      <find>otherPartySession</find>
+      <find>checkTransaction</find>
+      <find>cash</find>
+      <find>flowsession</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,12 +148,16 @@
       <list>
         <option value="$PROJECT_DIR$/cordapp-template-kotlin/contracts/src/main/kotlin/com/template/states/IOUState.kt" />
         <option value="$PROJECT_DIR$/cordapp-template-kotlin/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt" />
+        <option value="$PROJECT_DIR$/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt" />
+        <option value="$PROJECT_DIR$/contracts/src/main/kotlin/com/template/states/IOUState.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/workflows/src/main/kotlin/com/template/flows/Flows.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="279" />
+    <option name="y" value="72" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
@@ -121,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,54 +176,19 @@
               <item name="IOU_Updated" type="b2602c69:ProjectViewProjectNode" />
               <item name="IOU_Updated" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="IOU_Updated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOU_Updated" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="workflows" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="IOU_Updated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOU_Updated" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="workflows" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IOU_Updated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOU_Updated" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="workflows" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="IOU_Updated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOU_Updated" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="workflows" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IOU_Updated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOU_Updated" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="workflows" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="flows" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566480029976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567511911106" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,6 +201,32 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Gradle.IOU_Updated [deployNodes]">
+    <configuration name="IOU_Updated [deployNodes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="deployNodes" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IOU_Updated [deployNodes]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -207,7 +245,7 @@
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27103302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -216,7 +254,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38445595" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,7 +262,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -235,37 +273,104 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27103302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38445595" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32953367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cordapp-template-kotlin/contracts/src/main/kotlin/com/template/contracts/TemplateContract.kt" />
     <entry file="file://$PROJECT_DIR$/cordapp-template-kotlin/contracts/src/main/kotlin/com/template/states/IOUState.kt" />
     <entry file="file://$PROJECT_DIR$/cordapp-template-kotlin/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt" />
-    <entry file="file://$PROJECT_DIR$/workflows/src/main/kotlin/com/template/flows/Flows.kt">
+    <entry file="file://$PROJECT_DIR$/workflows/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="425">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/4.0/f157f0cd83cd4a5f0a99ed59e718ac62443b52fc/corda-core-4.0-sources.jar!/net/corda/core/flows/FlowLogic.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Commercial_Paper/contracts/src/main/kotlin/com/template/contracts/TemplateContract.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cordapp_comercial_paper/contracts/src/main/kotlin/com/template/contracts/TemplateContract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#28#376#0" expanded="true" />
+            <element signature="e#32#154#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contracts/src/main/kotlin/com/template/states/IOUState.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="204">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
           <folding>
             <element signature="e#29#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contracts/src/main/kotlin/com/template/contracts/IOUContract.kt">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="-4636">
+          <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="124" column="38" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workflows/src/main/kotlin/com/template/flows/Flows.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <element signature="e#32#154#0" expanded="true" />
+            <element signature="e#28#481#0" expanded="true" />
           </folding>
         </state>
       </provider>

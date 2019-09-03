@@ -4,13 +4,14 @@ import net.corda.core.contracts.*
 import net.corda.core.transactions.LedgerTransaction
 import com.template.states.IOUState
 
+
 // ************
 // * Contract *
 // ************
 class IOUContract : Contract {
     companion object {
         // Used to identify our contract when building a transaction.
-        val IOU_Contract_ID = "net.corda.core.contracts.IOUContract"
+        val id = "com.template.contracts.IOUContract"
     }
 
     interface Commands : CommandData{
@@ -33,12 +34,15 @@ class IOUContract : Contract {
                 " Amount must be positive value " using (iou.amount.quantity > 0)
                 " Borrower and Lender cannot be same party " using (iou.borrower != iou.lender)
                 " Both borrower and lender together may sign the transaction " using
-                        ( command.signers.toSet() == iou.participants.map {it.owningKey}.toSet() )
+                        ( command.signers.toSet().size == 2 )
+
             }
 
             is Commands.Transfer -> requireThat {
+               val input = tx.inputsOfType<IOUState>().single()
 
                 " Requires that amount must be positive " using (iou.amount.quantity > 0)
+                " You don't have enough balance to transfer " using (iou.amount.quantity >  input.amount.quantity)
                 " Lender and Borrower must not be same " using (iou.lender != iou.borrower)
             }
 
