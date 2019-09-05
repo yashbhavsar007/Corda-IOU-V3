@@ -38,9 +38,7 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../../workflows/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../config/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../../config/test" type="java-test-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../../config/test" />
     <content url="file://$MODULE_DIR$/../../../workflows/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../workflows/src/test/kotlin" isTestSource="true" />
     </content>

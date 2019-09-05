@@ -32,9 +32,7 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../config/dev">
-      <sourceFolder url="file://$MODULE_DIR$/../../config/dev" type="java-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../config/dev" />
     <content url="file://$MODULE_DIR$/../../src/main" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -57,8 +55,8 @@
     <orderEntry type="library" name="Gradle: com.google.guava:guava:25.1-jre" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: net.corda:corda-webserver:4.0" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jolokia:jolokia-jvm:agent:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jolokia:jolokia-jvm:agent:1.6.0" level="project" />
     <orderEntry type="library" name="Gradle: com.jcabi:jcabi-manifests:1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.jcabi:jcabi-log:0.14" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
